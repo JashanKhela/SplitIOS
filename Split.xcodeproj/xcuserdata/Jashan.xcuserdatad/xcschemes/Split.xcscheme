@@ -17,7 +17,7 @@
                BlueprintIdentifier = "D80BC60F1F36F60F00C20E19"
                BuildableName = "Split.app"
                BlueprintName = "Split"
-               ReferencedContainer = "container:Split.xcodeproj">
+               ReferencedContainer = "container:RoadRage.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
             BlueprintIdentifier = "D80BC60F1F36F60F00C20E19"
             BuildableName = "Split.app"
             BlueprintName = "Split"
-            ReferencedContainer = "container:Split.xcodeproj">
+            ReferencedContainer = "container:RoadRage.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -58,7 +58,7 @@
             BlueprintIdentifier = "D80BC60F1F36F60F00C20E19"
             BuildableName = "Split.app"
             BlueprintName = "Split"
-            ReferencedContainer = "container:Split.xcodeproj">
+            ReferencedContainer = "container:RoadRage.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -77,7 +77,7 @@
             BlueprintIdentifier = "D80BC60F1F36F60F00C20E19"
             BuildableName = "Split.app"
             BlueprintName = "Split"
-            ReferencedContainer = "container:Split.xcodeproj">
+            ReferencedContainer = "container:RoadRage.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
